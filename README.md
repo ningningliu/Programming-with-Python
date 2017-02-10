@@ -1,2 +1,4 @@
 # Programming-with-Python
-OOP practise 
+Object- Oriented - Programming (OOP)
+Here are some programming practises I did when I studying 'Programming Python'
+g
