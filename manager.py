@@ -4,6 +4,8 @@ class Manager(Person):
     # Inherited from class Person
     def giveRaise(self, percent, bonus=0.1):
         self.pay *= (1.0 + percent + bonus)
+        # Alternative method
+        Person.giveRaise(self,percent + bonus)
 
 # if __name__ == '__main__':
 #     tom = Manager(name = 'Tom Doe', age=52, pay = 50000)
