@@ -12,3 +12,4 @@ def more(text, numlines=15):
 if __name__ == '__main__':
     import sys
     more(open(sys.argv[0]).read(),10)
+    
