@@ -1,4 +1,5 @@
 # Programming-with-Python
 
 ## Object- Oriented - Programming (OOP)
-Here are some programming practises I did when I studying 'Programming Python'
+## 学习Python心得
+Here are some programming notes when I studying 'Programming Python'
