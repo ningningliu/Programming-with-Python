@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fe6ba69-9ff3-4f8a-82bd-8837aef3a593" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sytem-Tools/string_method_basis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sytem-Tools/file_operation_basis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sytem-Tools/more.py" afterPath="$PROJECT_DIR$/Sytem-Tools/more.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="string_method_basis.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sytem-Tools/string_method_basis.py">
+      <file leaf-file-name="file_operation_basis.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sytem-Tools/file_operation_basis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -43,6 +42,7 @@
       <list>
         <option value="$PROJECT_DIR$/Sytem-Tools/more.py" />
         <option value="$PROJECT_DIR$/Sytem-Tools/string_method_basis.py" />
+        <option value="$PROJECT_DIR$/Sytem-Tools/file_operation_basis.py" />
       </list>
     </option>
   </component>
@@ -279,6 +279,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sytem-Tools/file_operation_basis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding />
         </state>
       </provider>
