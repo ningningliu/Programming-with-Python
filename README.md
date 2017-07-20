@@ -1,3 +1,3 @@
 # Programming-with-Python
-## 学习Python心得
+## 学习Python总结
 Here are some programming notes when I studying 'Programming Python'
