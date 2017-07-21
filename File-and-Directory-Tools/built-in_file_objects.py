@@ -77,6 +77,22 @@ REMARK:
 file.seek(0) # go back to the start of the file
 file.readline()
 
+# reading lines with file iterators
+file = open('data.txt')
+for line in file.readlines(): # DON'T DO THIS: now python provides more efficient way
+    print(line , end='')
+
+file = open('data.txt')
+for line in file: # this methods used commonly now
+    print(line, end='')
+
+# shorter way
+for line in open('data.txt'):
+    print(line, end='')
+
+
+
+
 
 
 
