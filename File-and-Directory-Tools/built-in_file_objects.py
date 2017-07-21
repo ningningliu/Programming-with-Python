@@ -90,6 +90,15 @@ for line in file: # this methods used commonly now
 for line in open('data.txt'):
     print(line, end='')
 
+# list comprehension when inputting files
+lines =[line.rstrip() for line in open('data.txt')]
+
+lines=[line.upper() for line in open('data.txt')] #  change to upper case
+
+print(list(map(str.split, open('data.txt')))) # apply funciton, split strings in a line
+
+line= 'Hello file word!'
+line in open('data.txt') # return True
 
 
 
