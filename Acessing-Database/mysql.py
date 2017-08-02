@@ -3,7 +3,7 @@ import pymysql
 
 
 # Open database connection
-db = pymysql.connect("localhost","root","","Test" )
+db = pymysql.connect("localhost","root","","Test" ) # host, username, password, database-name
 
 # prepare a cursor object using cursor() method
 cursor = db.cursor()
